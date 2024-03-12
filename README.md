@@ -1,3 +1,2 @@
-#Talk to My Hand
-
-Your real time sign language converter!
+# Talk to My Hand
+ Your real time sign language converter!
